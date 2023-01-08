@@ -2,6 +2,8 @@ package app;
 
 import app.config.AppConfig;
 import app.model.AnimalsCage;
+import app.model.Cat;
+import app.model.Dog;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 
